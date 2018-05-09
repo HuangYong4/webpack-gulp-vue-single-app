@@ -1,0 +1,8 @@
+{
+  "name": "wgsa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/forgetsometime/webpack-gulp-vue-single-app.git",
+  "author": "forgetsometime <1039650779@qq.com>",
+  "license": "MIT"
+}
